@@ -1,0 +1,17 @@
+{
+  "name": "temlate-with-npm-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Awshaf Ishtiaque",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "require": "^2.4.20",
+    "requirejs": "^2.3.6"
+  }
+}
